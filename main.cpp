@@ -7,7 +7,7 @@
  */
 int main()
 {
-	printf("Hello, the number is %d.\n", 2);	
+	printf("Hello, the number is %d.\n", 42);	
 
 
 	return 0;
